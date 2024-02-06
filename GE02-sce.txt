@@ -1,0 +1,9 @@
+Team Scrum GE Sprint Document Containing the following - created by Brett Walton
+Title: GE02 and Due Date: 15-Feb-24(15022024)
+Team Name: Foolish Wizardz
+Scrum Coach: Brett Walton
+Tech Lead: Ryan M.
+Team Members: Mattie, Josh E.
+Scrum Synchronous Stand-Up Meeting: 8-Feb-24(08022024) 0915-1040
+Asynchronous team check in schedule: Tuesday or Thursday between 0915-1040
+Agenda: will be added before stand-up meeting for GE Sprint by Scrum Coach and updated for issues that arise
