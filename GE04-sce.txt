@@ -1,0 +1,9 @@
+Title: GE04
+Due Date: 18-Mar-24
+Team Name: Foolish Wizardz
+Scrum Coach: Ryan Montgomery
+Tech Lead: Brett Walton
+Team Members: Mattie Fuller and Joshua Edwards
+Scrum Synchronous Stand-Up Meeting: 12-Mar-24 11:30-11:50
+Asynchronous team check in schedule: Tuesday or Thursday between 9:15 AM and 10:45 AM
+Agenda: will be added before stand-up meeting for GE Sprint by Scrum Coach and updated for issues that arise
